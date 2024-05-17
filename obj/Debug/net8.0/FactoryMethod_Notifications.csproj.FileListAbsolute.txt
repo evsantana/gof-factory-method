@@ -1,0 +1,14 @@
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\bin\Debug\net8.0\FactoryMethod_Notifications.exe
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\bin\Debug\net8.0\FactoryMethod_Notifications.deps.json
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\bin\Debug\net8.0\FactoryMethod_Notifications.runtimeconfig.json
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\bin\Debug\net8.0\FactoryMethod_Notifications.dll
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\bin\Debug\net8.0\FactoryMethod_Notifications.pdb
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\obj\Debug\net8.0\FactoryMethod_Notifications.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\obj\Debug\net8.0\FactoryMethod_Notifications.AssemblyInfoInputs.cache
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\obj\Debug\net8.0\FactoryMethod_Notifications.AssemblyInfo.cs
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\obj\Debug\net8.0\FactoryMethod_Notifications.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\obj\Debug\net8.0\FactoryMethod_Notifications.dll
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\obj\Debug\net8.0\refint\FactoryMethod_Notifications.dll
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\obj\Debug\net8.0\FactoryMethod_Notifications.pdb
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\obj\Debug\net8.0\FactoryMethod_Notifications.genruntimeconfig.cache
+E:\Projetos\C#\GoF\Factory\FactoryMethod_Notifications\obj\Debug\net8.0\ref\FactoryMethod_Notifications.dll
