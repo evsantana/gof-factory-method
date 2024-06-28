@@ -12,12 +12,13 @@ namespace FactoryMethod_Notifications._4_ConcreteCreator
 
         public NotificationFactory()
         {
+            //Dictionary to map instances according to the enum type
             Notifies = new Dictionary<Notifications, Func<Notification>>
-        {
-            {Notifications.Email, () => new Email(_user.Name, _user.Email) },
-            {Notifications.SMS, () => new SMS(_user.Name, _user.Phone) },
-            {Notifications.Whatsapp, () => new Whastapp(_user.Name, _user.Whatsapp) },
-        };
+            {
+                {Notifications.Email, () => new Email(_user.Name, _user.Email) },
+                {Notifications.SMS, () => new SMS(_user.Name, _user.Phone) },
+                {Notifications.Whatsapp, () => new Whastapp(_user.Name, _user.Whatsapp) },
+            };
         }
 
         public override Notification CreateNotification(Notifications type, User user)

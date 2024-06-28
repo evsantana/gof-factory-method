@@ -2,8 +2,8 @@
 {
     public enum Notifications
     {
-        SMS = 0,
-        Whatsapp = 1,
-        Email = 2
+        SMS,
+        Whatsapp,
+        Email
     }
 }

@@ -29,14 +29,14 @@
     </TypeIdentifier>
   </Class>
   <Class Name="FactoryMethod_Notifications.Creator.NotificationFactoryMethod">
-    <Position X="1.5" Y="6.5" Width="1.5" />
+    <Position X="1.5" Y="6.5" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>3_Creator\NotificationFactoryMethod.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FactoryMethod_Notifications._4_ConcreteCreator.NotificationFactory">
-    <Position X="1.5" Y="8.25" Width="1.5" />
+    <Position X="1.5" Y="8.25" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAQAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
       <FileName>4_ConcreteCreator\NotificationFactory.cs</FileName>
